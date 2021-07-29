@@ -41,6 +41,21 @@ header{
     filter: grayscale(1);
 }
 
+/* Big feature styles */
+.padding-feature-text{
+    padding: 5% 0;
+}
+
+/* Latest news styles */
+.btn-post{
+    border: 1px solid #E76F51;
+    color: #E76F51
+}
+.btn-post:hover{
+    background-color: #E76F51;
+    color: white;
+}
+
 /* Testimonial styles */
 .img-center{
     position: relative;
@@ -57,5 +72,8 @@ header{
     color: #23A6F0;
 }
 
-/* FAQ styles */
+/* Subscribe section styles */
+.subscribe-bg{
+    background-color: #264653;
+}
 
