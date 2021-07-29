@@ -1,0 +1,61 @@
+/* Google font link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700;900&display=swap');
+
+/* Common styles */
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h6 {
+    font-weight: 600;
+}
+h1{
+    font-size: 48px;
+}
+h2{
+    font-size: 42px;
+}
+h6{
+    color: #E76F51;
+}
+hr{
+    background-color: #E76F51;
+    width: 8%;
+}
+span{
+    color: #E76F51;
+}
+
+/* Header styles */
+header{
+    background-color: #264653;
+}
+.btn-purchase{
+    background-color: #E76F51;
+    color: white;
+}
+
+/* Feature styles */
+.honda-grayscale {
+    filter: grayscale(1);
+}
+
+/* Testimonial styles */
+.img-center{
+    position: relative;
+    display: block;
+    margin: 40px auto 30px auto;
+}
+.img-circle{
+    border-radius: 50%;
+}
+.fa-star, .fa-star-half-alt{
+    color: #E77C40;
+}
+.reviewer-name {
+    color: #23A6F0;
+}
+
+/* FAQ styles */
+
