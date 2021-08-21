@@ -43,7 +43,7 @@ header{
 
 /* Big feature styles */
 .padding-feature-text{
-    padding: 5% 0;
+    padding: 5% 2%;
 }
 
 /* Latest news styles */
@@ -70,6 +70,11 @@ header{
 }
 .reviewer-name {
     color: #23A6F0;
+}
+
+/* FAQ styles */
+.faq-img img{
+    height: 510px;
 }
 
 /* Subscribe section styles */
